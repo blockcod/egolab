@@ -1,5 +1,5 @@
-# Team Y: Escape Egolab
-**Description:** Escape Egolab is an exploration game where the user must find and destroy a hidden camera. Along the way they must navigate between tables of ScriptEd volunteers and students.
+# Team Y: Escape Egolog
+**Description:** Escape Egolog is an exploration game where the user must find and destroy a hidden camera. Along the way they must navigate between tables of ScriptEd volunteers and students.
 
 **Controls:** (**W**): Up
               (**A**): Left
