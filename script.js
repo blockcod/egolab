@@ -6,7 +6,7 @@ var room1 = [
     [true, true, true, true, true],
     [true, false, true, true, true],
     [true, false, true, true, false],
-    [true, true, false, true, true],
+    [true, true, true, true, true],
     [true, true, "exit", true, true]
 ];
 
