@@ -1,0 +1,38 @@
+body{
+    background-image: url("sprites/plank.jpeg");
+    background-size: 100%;
+}
+#x4y2{
+    background-image: url("sprites/exit.png");
+    background-repeat: no-repeat;
+    background-position:center center;
+    }
+#x2y4{
+    background: url("sprites/Photo_booth.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+#x1y1{
+    background: url("sprites/Circle_table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+#x2y1{
+    background: url("sprites/Circle_table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+.hero img{
+    width: 200px;
+    height: auto;
+}
+.square img.hidden {
+    visibility: hidden;
+}
+
+.square {
+    height: 150px;
+}
+
+

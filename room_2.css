@@ -1,0 +1,46 @@
+body{
+    background-image: url("sprites/plank.jpeg");
+    background-size: 100%;
+}
+#x4y2{
+    background: url("sprites/camera.png");
+    background-size: 120px auto;
+    background-repeat: no-repeat;
+    background-position:center center;}
+#x3y1{
+    background: url("sprites/Circle_table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+ #x1y2{
+    background: url("sprites/Oval_Table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+#x1y1{
+    background: url("sprites/Circle_table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+ #x3y0{
+    background: url("sprites/Oval_Table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;
+ }
+ #x4y3{
+    background: url("sprites/Circle_table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+ #x3y3{
+    background: url("sprites/Oval_Table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+#x2y3{
+    background: url("sprites/Oval_Table.png");
+    background-size: 220px 150px;
+    background-repeat: no-repeat;
+    background-position:center center;}
+ 
