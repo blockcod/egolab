@@ -23,6 +23,11 @@ body{
     background-size: 220px 150px;
     background-repeat: no-repeat;
     background-position:center center;}
+#x2y0{
+    background: url("sprites/camera.png");
+    background-size: 120px auto;
+    background-repeat: no-repeat;
+    background-position:center center;}
 .hero img{
     width: 200px;
     height: auto;
