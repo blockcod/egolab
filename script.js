@@ -88,7 +88,6 @@ var currentY = 0;
 var WCHAR = 87;
 var DCHAR = 68;
 var SCHAR = 83;
-var ACHAR = 65;
 var cam_break = 0;
 var activeSquareId = "#x0y0";
 $(document).ready(function() {
